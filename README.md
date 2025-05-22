@@ -1,8 +1,9 @@
+<div align="center">
+  <img src="https://chinaenv.colgate.edu/airpollution/wp-content/uploads/sites/3/2016/11/cropped-26429230052_f0aa505a55_k-1.jpg">
+</div>
 
-![Overview](https://github.com/user-attachments/assets/6e9a76c2-6d28-4f70-9e92-b320e81189e4)
 
-
-**<ins>Overview: Unmasking the Air – A Deep Dive into China’s Air Pollution Crisis</ins>**
+# **<ins>Overview: Unmasking the Air – A Deep Dive into China’s Air Pollution Crisis</ins>**
 
 Air pollution is more than just a hazy skyline — it’s a silent killer, claiming an estimated 7 million lives globally each year, with China alone accounting for nearly 2 million. This project explores one of the world’s most pressing environmental and public health challenges: Air Pollution in China’s major urban centers.
 
